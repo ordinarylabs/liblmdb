@@ -1,0 +1,15 @@
+[package]
+name = "liblmdb"
+version = "0.9.70"
+edition = "2021"
+authors = ["sean watters <sean@ordinarylabs.io>"]
+description = "up to date Rust bindings for liblmdb."
+homepage = "https://github.com/ordinarylabs/liblmdb"
+repository = "https://github.com/ordinarylabs/liblmdb"
+readme = "README.md"
+license-file = "LICENSE"
+
+categories = ["database", "external-ffi-bindings"]
+
+[build-dependencies]
+cc = "1"
