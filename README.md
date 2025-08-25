@@ -1,5 +1,7 @@
 # liblmdb
 
+**MOVED TO https://codeberg.org/ordinarylabs/liblmdb**
+
 up to date Rust bindings for LMDB.
 
 version matches LMDB version for which the bindings were generated.
